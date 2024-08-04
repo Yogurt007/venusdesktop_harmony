@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/HomePage",
+    "pages/SplashPage",
+    "pages/application/camera/CameraApplication",
+    "pages/application/browser/BrowserApplication"
+  ]
+}
